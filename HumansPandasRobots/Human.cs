@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace HumansPandasRobots
 {
-    public class Human
+    public class Human : IBeing
     {
+        public void Eat()
+        {
+            var food = "Taco";
+            Console.WriteLine($"Yum, I ate {food}");
+        }
+             
     }
+
+   
 }
