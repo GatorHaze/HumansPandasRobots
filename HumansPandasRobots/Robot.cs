@@ -22,10 +22,14 @@ namespace HumansPandasRobots
             Console.WriteLine("Started...");
             IsAsleep = false;
         }
-        
-
-
-
+        public void IsATerminator()
+        {
+            if (true)
+            {
+                Console.WriteLine("I am a terminator");
+            }
+        }
+            
 	}     
     
 }

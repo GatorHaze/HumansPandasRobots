@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 
 namespace HumansPandasRobots
 {
-    public class Panda : IBeing
+    
+    class Being : Friend
     {
         public void Eat(string food)
         {
-            Console.WriteLine($"Yum I ate {food}"); 
+            Console.WriteLine($"Yum, I ate {food}");
+
         }
+    }
+    public interface IBeing
+    {
+
     }
 }

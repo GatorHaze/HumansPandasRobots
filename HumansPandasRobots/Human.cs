@@ -8,13 +8,10 @@ namespace HumansPandasRobots
 {
     public class Human : IBeing
     {
-        public void Eat()
-        {
-            var food = "Taco";
-            Console.WriteLine($"Yum, I ate {food}");
+        
         }
              
     }
 
    
-}
+
