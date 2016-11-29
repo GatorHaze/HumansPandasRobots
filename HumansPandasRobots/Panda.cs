@@ -8,6 +8,7 @@ namespace HumansPandasRobots
 {
     public class Panda : IBeing
     {
+        public string food = "Bamboo";
         public void Eat(string food)
         {
             Console.WriteLine($"Yum I ate {food}"); 
