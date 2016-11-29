@@ -1,6 +1,0 @@
-C:\Users\Justin Hazlewood\tiy\week-3\HumansPandasRobots\HumansPandasRobots\obj\Debug\HumansPandasRobots.csprojResolveAssemblyReference.cache
-C:\Users\Justin Hazlewood\tiy\week-3\HumansPandasRobots\HumansPandasRobots\bin\Debug\HumansPandasRobots.exe.config
-C:\Users\Justin Hazlewood\tiy\week-3\HumansPandasRobots\HumansPandasRobots\bin\Debug\HumansPandasRobots.exe
-C:\Users\Justin Hazlewood\tiy\week-3\HumansPandasRobots\HumansPandasRobots\bin\Debug\HumansPandasRobots.pdb
-C:\Users\Justin Hazlewood\tiy\week-3\HumansPandasRobots\HumansPandasRobots\obj\Debug\HumansPandasRobots.exe
-C:\Users\Justin Hazlewood\tiy\week-3\HumansPandasRobots\HumansPandasRobots\obj\Debug\HumansPandasRobots.pdb
