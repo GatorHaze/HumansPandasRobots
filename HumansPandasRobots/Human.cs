@@ -8,10 +8,16 @@ namespace HumansPandasRobots
 {
     public class Human : IBeing
     {
-        
+        public string food = "taco";
+
+        public void Eat(string food)
+        {
+            Console.WriteLine($"Yum I ate {food}");
         }
+
+    }
              
     }
 
    
-
+}

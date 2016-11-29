@@ -16,17 +16,18 @@ namespace HumansPandasRobots
             var human = new Human();
             var robot = new Robot();
             var panda = new Panda();
+           
 
-            var Mike = new Friend();
-            Mike.Name = "Mike";
-            Console.WriteLine(Mike.DisplayName());
+            var Human = new Friend();
+            Human.Name = "Mike";
+            Console.WriteLine(Human.DisplayName());
             
             var Hello = new Friend();
             Hello.Greeting = "Hello Everyone!";
             Console.WriteLine(Hello.DisplayGreeting());
             Console.ReadLine();
 
-            
+           
             panda.Eat("Bamboo");
             Console.ReadLine();
                             
